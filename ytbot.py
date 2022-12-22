@@ -8,7 +8,7 @@ from threading import Thread
 
 def maininmain():
   print("Generating")
-  url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  url = "https://www.youtube.com/watch?v=nXdui__pefQ&t=21s"
   while:
        time.sleep(1)
        os.popen(r'C:\Coding\TorBrowser\Browser\firefox.exe')
